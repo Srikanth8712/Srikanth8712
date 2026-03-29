@@ -1,16 +1,110 @@
-## Hi there 👋
+# Hi, I'm Srikanth 👋
 
-<!--
-**Srikanth8712/Srikanth8712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Data Engineer | 14+ years | Insurance · Banking · Cloud Data Platforms**
 
-Here are some ideas to get you started:
+I build large-scale, cloud-native data platforms — currently transitioning into
+pharma & life sciences, bringing deep Databricks, Snowflake, and AWS expertise
+into regulated data environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+I've spent 14+ years designing and delivering enterprise data engineering
+solutions across insurance and banking domains — from cloud migrations and
+streaming pipelines to semantic layers and self-serve analytics. I'm now
+actively applying this foundation to pharma and life sciences, learning CDISC,
+OMOP CDM, and GxP compliance as I make that transition.
+
+---
+
+## Tech stack
+
+**Lakehouse & Cloud**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Transformation & Orchestration**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Governance & IaC**
+
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## Career highlights
+
+**SQL Server → Snowflake migration** *(Insurance domain)*
+Led end-to-end migration from SQL Server to Snowflake — dbt Cloud for
+transformations, Fivetran for Guidewire ingestion, Snowflake Cortex Analyst
+semantic layer, Streamlit chatbot for self-serve analytics, MCP connectors,
+and Terraform for IaC.
+
+**Azure Databricks platform — 5 years** *(Insurance domain)*
+Designed PySpark + Delta Live Tables pipelines, Unity Catalog governance,
+Apache Kafka streaming, AWS Glue and Lambda integrations, DataStax Graph
+pipelines, and medallion architecture (Bronze → Silver 3NF → Gold star schema
+with SCD Type 2).
+
+---
+
+## What I'm learning now — Pharma & Life Sciences
+
+I'm actively building domain knowledge to transition into pharma DE roles:
+
+- CDISC SDTM / ADaM standards for clinical trial data
+- OMOP Common Data Model on Snowflake
+- GxP computer system validation (IQ/OQ/PQ)
+- 21 CFR Part 11 compliance patterns for data pipelines
+- Adverse event and pharmacovigilance data flows
+- Databricks Auto Loader for EHR / EDC integrations
+
+> Repos in this space are learning projects, not production experience —
+> clearly labeled as such.
+
+---
+
+## Featured projects
+
+- **[snowflake-migration-playbook](./snowflake-migration-playbook)** —
+  SQL Server → Snowflake migration patterns: dbt, Fivetran, Terraform,
+  semantic layer *(real project, insurance domain)*
+- **[databricks-unity-catalog-patterns](./databricks-unity-catalog-patterns)** —
+  Unity Catalog governance, Delta Live Tables, medallion architecture
+  *(real project, insurance domain)*
+- **[streamlit-cortex-chatbot](./streamlit-cortex-chatbot)** —
+  Snowflake Cortex Analyst + Streamlit self-serve analytics POC
+- **[pharma-learning-lab](./pharma-learning-lab)** —
+  My structured learning path: OMOP CDM, CDISC pipelines, GxP patterns
+  *(learning project)*
+- **[databricks-interview-prep](./databricks-interview-prep)** —
+  PySpark, DLT, AQE, join strategies, Unity Catalog — interview
+  preparation notes and notebooks
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+---
+
+*Based in Indiana, USA · Targeting senior/principal data engineering roles
+in pharma & life sciences*
