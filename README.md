@@ -1,6 +1,6 @@
 # Hi, I'm Srikanth 👋
 
-**Senior Data Engineer | 12+ years | Insurance · Banking · Cloud Data Platforms**
+**Senior Data Engineer | 14+ years | Insurance · Banking · Cloud Data Platforms**
 
 I build large-scale, cloud-native data platforms — currently transitioning into
 pharma & life sciences, bringing deep Databricks, Snowflake, and AWS expertise
@@ -12,7 +12,7 @@ workflows on top of the platforms I already work with every day.
 
 ## What I do
 
-I've spent 12+ years designing and delivering enterprise data engineering
+I've spent 14+ years designing and delivering enterprise data engineering
 solutions across insurance and banking domains — from cloud migrations and
 streaming pipelines to semantic layers and self-serve analytics. I'm now
 applying this foundation in two directions: transitioning into pharma & life
